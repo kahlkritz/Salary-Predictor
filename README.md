@@ -1,3 +1,4 @@
-# Salary-Predictor ReadeMe
+#ReadeMe
+This program was written for a university assignment
 
-Predicts salaries of individuals using a single artificial neuron: Assignment 1 for evolutionary computing
+This C# application predicts an individuals salary based on numerous attributes using a single neuron. The neuron is designed from scratch and no libraries are used.
